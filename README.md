@@ -22,6 +22,9 @@ On the website the users can:
 * Sophie Preston - @W1z4rdK1tty
 
 ## Installation
-1. 
-2. 
-3.
+1. Clone this repo into your folder of choice using 'git clone'
+2. In the terminal move into the folder you cloned the repo in using 'cd' 
+3. In the terminal type 'npm install' to install React and all of its depenencies
+4. Run code . to open the file in Visual Studio Code
+5. In the terminal type 'npm run dev' to switch on the local host.
+6. In the browser type in the local host address to view the application.  
