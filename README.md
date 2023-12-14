@@ -1,4 +1,4 @@
-# 23-sept-catmode-bookswap-fe
+# Book Swap Group Project - Team Cat Mode 2023 
 
 # Description 
 working as part of a team of 6 developers, using pair programming we were tasked to build a Book Swap website that manages a communal bookshelf.  
